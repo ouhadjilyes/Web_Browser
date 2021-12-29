@@ -11,7 +11,7 @@ A simple web browser using Python and PyQt5 .
            
  - Then run the following command to execute the program :
  
-           $ python3 callbrowser.py
+           $ python3 callBrowser.py
            
  # Here's a screenshot of the web_browser :
  
