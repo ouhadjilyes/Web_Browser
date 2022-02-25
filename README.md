@@ -1,5 +1,5 @@
 # Web_Browser
-A simple web browser using Python and PyQt5 .
+A simple web browser using Python and PyQt5 
 
 # Installation 
 
